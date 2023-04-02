@@ -5,3 +5,5 @@ body: {
     "status":false,
     "email":"abc@gmail.com"
 }
+
+Database: PgAdmin, PostagreSQL
